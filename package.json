@@ -74,7 +74,7 @@
     "jsonlint": "~1.6.2",
     "lodash": "~3.10.0",
     "minimatch": "~3.0.0",
-    "natural-compare": "~1.2.2",
+    "natural-compare": "~1.4.0",
     "pathval": "~0.1.1",
     "prompt": "~0.2.14",
     "reserved-words": "^0.1.1",
