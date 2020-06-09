@@ -75,7 +75,7 @@
     "lodash": "~3.10.0",
     "minimatch": "~3.0.0",
     "natural-compare": "~1.2.2",
-    "pathval": "~0.1.1",
+    "pathval": "~0.2.1",
     "prompt": "~0.2.14",
     "reserved-words": "^0.1.1",
     "resolve": "^1.1.6",
