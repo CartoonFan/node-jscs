@@ -89,7 +89,7 @@
   },
   "devDependencies": {
     "chai": "^4.2.0",
-    "coveralls": "~2.11.2",
+    "coveralls": "~3.1.0",
     "has-ansi": "~2.0.0",
     "jshint": "~2.8.0",
     "mocha": "^2.2.0",
