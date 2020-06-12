@@ -72,7 +72,7 @@
     "jscs-jsdoc": "^2.0.0",
     "jscs-preset-wikimedia": "~1.0.0",
     "jsonlint": "~1.6.2",
-    "lodash": "~3.10.0",
+    "lodash": "~4.17.15",
     "minimatch": "~3.0.0",
     "natural-compare": "~1.4.0",
     "pathval": "~0.1.1",
