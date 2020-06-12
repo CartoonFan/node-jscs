@@ -88,7 +88,7 @@
     "xmlbuilder": "^3.1.0"
   },
   "devDependencies": {
-    "chai": "^3.3.0",
+    "chai": "^4.2.0",
     "coveralls": "~2.11.2",
     "has-ansi": "~2.0.0",
     "jshint": "~2.8.0",
