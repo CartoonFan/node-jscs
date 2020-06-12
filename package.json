@@ -60,7 +60,7 @@
     "node": ">= 0.10.0"
   },
   "dependencies": {
-    "chalk": "~1.1.0",
+    "chalk": "~4.1.0",
     "cli-table": "~0.3.1",
     "commander": "~2.9.0",
     "cst": "^0.4.3",
@@ -74,8 +74,8 @@
     "jsonlint": "~1.6.2",
     "lodash": "~3.10.0",
     "minimatch": "~3.0.0",
-    "natural-compare": "~1.2.2",
-    "pathval": "~0.2.1",
+    "natural-compare": "~1.4.0",
+    "pathval": "~0.1.1",
     "prompt": "~0.2.14",
     "reserved-words": "^0.1.1",
     "resolve": "^1.1.6",
