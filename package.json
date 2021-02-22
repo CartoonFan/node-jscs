@@ -85,7 +85,7 @@
     "to-single-quotes": "^2.0.0",
     "vow": "~0.4.8",
     "vow-fs": "~0.3.4",
-    "xmlbuilder": "^3.1.0"
+    "xmlbuilder": "^4.2.1"
   },
   "devDependencies": {
     "chai": "^4.2.0",
